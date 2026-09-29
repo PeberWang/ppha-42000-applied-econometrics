@@ -4,7 +4,7 @@ Shared repository for **PPHA 42000 Applied Econometrics I (PhD)**, Autumn 2026
 (MACRM, Harris School of Public Policy, University of Chicago). Instructor: Steven N. Durlauf.
 
 A place to build up, over the quarter, a systematic body of work: rigorous proofs,
-problem-set solutions, self-written notes, and data cleaning / analysis code.
+problem-set solutions, and data cleaning / analysis code.
 
 > **Scope & copyright.** This repository contains only original, publicly shareable
 > material. Instructor lecture notes, slides, the syllabus, and textbook PDFs are **not**
@@ -17,7 +17,6 @@ problem-set solutions, self-written notes, and data cleaning / analysis code.
 |---|---|
 | `proofs/` | Derivations and proofs (identification results, estimator properties, asymptotics) |
 | `problem-sets/` | Solutions, organized as `ps01/`, `ps02/`, … |
-| `notes/` | Self-written notes (LaTeX / Markdown) |
 | `data/` | Datasets you are allowed to share, plus data dictionaries |
 | `code/` | Cleaning and analysis code (Python / R) |
 
@@ -45,5 +44,5 @@ problem-set solutions, self-written notes, and data cleaning / analysis code.
 ## License
 
 - **Code** (`code/`, scripts, notebooks): MIT — see [`LICENSE`](LICENSE).
-- **Prose & notes** (proofs, solutions, notes, this README): CC BY 4.0 — see
+- **Prose** (proofs, solutions, this README): CC BY 4.0 — see
   [`LICENSE-CC-BY-4.0.md`](LICENSE-CC-BY-4.0.md).
