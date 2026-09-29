@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Editors
+.vscode/
+.idea/
+
+# Archives / large files (use Git LFS or external links instead)
+*.zip
+*.tar.gz
